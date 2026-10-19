@@ -1,7 +1,7 @@
 {
-  "name": "Partida U-39 Concept V3.1 — J-3901, J-3902 e Conversor",
-  "short_name": "Partida U39",
-  "description": "Concept V3.1: avaliação com gabarito auditado, 76 páginas, sinótico, causa e efeito, rampas interativas e 40 decisões CIC",
+  "name": "Rampas / partida — J-3901, J-3902 e Conversor",
+  "short_name": "Rampas / partida",
+  "description": "Concept : rampas de aquecimento e rotação, intertravamentos, laboratório de by-pass e avaliação CIC",
   "id": "./",
   "start_url": "./index.html",
   "scope": "./",
