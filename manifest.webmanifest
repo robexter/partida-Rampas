@@ -1,0 +1,30 @@
+{
+  "name": "Partida U-39 Concept V3.1 — J-3901, J-3902 e Conversor",
+  "short_name": "Partida U39",
+  "description": "Concept V3.1: avaliação com gabarito auditado, 76 páginas, sinótico, causa e efeito, rampas interativas e 40 decisões CIC",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "background_color": "#0c1523",
+  "theme_color": "#0c1523",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
