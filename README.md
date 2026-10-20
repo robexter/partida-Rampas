@@ -1,6 +1,6 @@
-# Partida U-39 Concept V3.1 — Avaliação CIC avançada
+# Partida U-39 Concept — Avaliação CIC avançada
 
-Versão de refinamento técnico-pedagógico da V3, destinada a estudo de J-3901, J-3902 e conversor. É **protótipo não validado operacionalmente**. Nunca substitui procedimentos vigentes, P&IDs, limites de fabricante ou matriz de intertravamento aprovada.
+técnico-pedagógico, destinada a estudo de J-3901, J-3902 e conversor.
 
 ## Entregas e alterações
 
