@@ -1,4 +1,4 @@
-const CACHE='partida-u39-concept-v34-gw0014';
+const CACHE='partida-u39-concept-v38-gw0014-v23-sequencia';
 const BASE=new URL('./',self.registration.scope).pathname;
 const assets=['./laboratorio-bypass-gw0014-v1.js','./','./index.html','./styles.css','./app.js','./interactive-v2.js','./interactive-v3.js','./laboratorio-bypass-v3-2.js','./interactive-v3.css','./document-data.js','./manifest.webmanifest','./assets/icon-192.png','./assets/icon-512.png','./procedimento-original-U39.pdf','./assets/pagina-05.webp','./assets/pagina-07.webp','./assets/pagina-08.webp','./assets/pagina-19.webp','./assets/pagina-20.webp','./assets/pagina-21.webp','./assets/pagina-22.webp','./assets/pagina-31.webp','./assets/pagina-32.webp','./assets/pagina-36.webp','./assets/pagina-37.webp','./assets/pagina-38.webp','./assets/pagina-39.webp','./assets/pagina-40.webp','./assets/pagina-41.webp'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(assets)).then(()=>self.skipWaiting()))});
