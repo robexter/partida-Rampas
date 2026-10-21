@@ -22,7 +22,7 @@
     page.innerHTML = `
       <div id="gw23-app" class="gw22">
         <div class="gw22-heading">
-          <div><p class="gw22-eyebrow">U-39 / LABORATÓRIO • REVISÃO V2.3</p>
+          <div><p class="gw22-eyebrow">U-39 / LABORATÓRIO • REVISÃO </p>
           <h1>GW0014 · Laboratório de proteções e by-pass</h1>
           <p><strong>TRIP/rearme:</strong> valores exclusivamente da GW0014. <strong>By-pass de parada:</strong> somente a ordem de entrada das funções no descritivo histórico, sem importar seus valores antigos.</p></div>
           <div class="gw22-source"><span>TRIP / REARME</span><strong>GW0014</strong></div>
