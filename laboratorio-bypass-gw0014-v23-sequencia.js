@@ -22,15 +22,15 @@
     page.innerHTML = `
       <div id="gw23-app" class="gw22">
         <div class="gw22-heading">
-          <div><p class="gw22-eyebrow">U-39 / LABORATÓRIO • REVISÃO </p>
+          <div><p class="gw22-eyebrow">U-39 / LABORATÓRIO </p>
           <h1>GW0014 · Laboratório de proteções e by-pass</h1>
           <p><strong>TRIP/rearme:</strong> valores exclusivamente da GW0014. <strong>By-pass de parada:</strong> somente a ordem de entrada das funções no descritivo histórico, sem importar seus valores antigos.</p></div>
           <div class="gw22-source"><span>TRIP / REARME</span><strong>GW0014</strong></div>
         </div>
-        <p class="gw22-warning"><strong>Simulação didática — não validada como lógica de PLC.</strong>
-        Estados e tempos são entradas de exercício, não valores lidos do SDCD. Não usar para autorizar TRIP, rearme ou contorno.</p>
+        <p class="gw22-warning"><strong>Simulação didática.</strong>
+        Estados e tempos são entradas de exercício. Não usar para autorizar TRIP, rearme ou contorno.</p>
         <nav class="gw23-tabs" aria-label="Áreas do laboratório" role="tablist">
-          <button id="gw23-tab-prot" type="button" role="tab" aria-selected="true" aria-controls="gw23-protection" class="active">GW0014 · TRIP e rearme</button>
+          <button id="gw23-tab-prot" type="button" role="tab" aria-selected="true" aria-controls="gw23-protection" class="active"> TRIP e rearme</button>
           <button id="gw23-tab-stop" type="button" role="tab" aria-selected="false" aria-controls="gw23-stop">By-pass de parada · sequência</button>
         </nav>
         <section id="gw23-protection" aria-labelledby="gw23-tab-prot">
